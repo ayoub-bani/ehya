@@ -3,7 +3,11 @@
 
 // Include any default variable overrides here (though functions won't be available)
 
-// $theme-colors: ("primary": #11414B, );
+$theme-colors: (
+    "primary": #1565D8,
+    "secondary": #183B56,
+    // "info": #183B56,
+);
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 

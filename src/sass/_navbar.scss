@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open Sans';
+
+    .navbar {
+        height: 15vh;
+
+        // nav font family
+        a,
+        button {
+            font-family: 'Grotesk-bold', sans-serif;
+        }
+
+        // custom btn border width
+        .custom-border {
+            border: 2px solid $primary;
+        }
+
+        // disabled to add cusstom arrow
+        .dropdown-toggle::after {
+            display: none;
+        }
+    }
+}
