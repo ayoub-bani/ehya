@@ -1,0 +1,30 @@
+#hero {
+    height: 100vh;
+    font-family: 'Grotesk-bold', sans-serif;
+
+    .hero-image {
+        object-fit: cover;
+        height: 20rem;
+    }
+
+    .hero-title {
+        font-size: 4rem;
+    }
+
+    .hero-subtitle {
+        font-family: 'Grotesk-Regular', sans-serif;
+        font-size: 1.3rem;
+        line-height: 1.8rem;
+        color: #808c96;
+    }
+
+    .hero__right-btn {
+        background-color: #F7F8F9;
+        border: none;
+        border-radius: 10px;
+    }
+
+    .hero__left-btn {
+        border-radius: 10px;
+    }
+}
