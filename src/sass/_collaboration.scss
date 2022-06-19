@@ -1,0 +1,33 @@
+#collaboration {
+    height: 100vh;
+
+    .collab-head {
+        font-family: 'Grotesk-SemiBold', sans-serif;
+        color: #808c96;
+        letter-spacing: 3px;
+        font-size: 1rem;
+    }
+
+    .collab-image {
+        width: 35rem;
+    }
+
+    .coll-title {
+        font-family: 'Grotesk-Bold', sans-serif;
+        font-size: 3rem;
+    }
+
+    .coll-parag {
+        font-family: 'Grotesk-Regular', sans-serif;
+        font-size: 1.3rem;
+        line-height: 2rem;
+        color: #808c96;
+        width: 27rem;
+    }
+
+    .coll-btn {
+        font-family: 'Grotesk-Bold', sans-serif;
+        border-radius: 10px;
+        padding: 0.8rem 3rem !important;
+    }
+}
