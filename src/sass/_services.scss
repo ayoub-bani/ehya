@@ -1,0 +1,34 @@
+#services {
+    .services-title {
+        font-family: 'Grotesk-Bold', sans-serif;
+        font-size: 1.5rem;
+    }
+
+    .services-subtitle {
+        font-family: 'Grotesk-Regular', sans-serif;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #808c96;
+        width: 20rem;
+    }
+
+    .border-icons {
+        border-radius: 5px;
+        padding: 10px;
+    }
+
+    .styled-container {
+        border-radius: 10px;
+        height: 28rem;
+        width: 25rem;
+        background-color: aliceblue;
+    }
+
+    .services-img {
+        height: 30rem;
+    }
+
+    .services-img-2 {
+        height: 28rem;
+    }
+}
